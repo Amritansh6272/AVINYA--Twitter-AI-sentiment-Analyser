@@ -45,4 +45,4 @@ for tweet in tweets:
     polarity += analysis.polarity
 
 print (polarity)
-
+print (final_text)
